@@ -17,6 +17,7 @@ From building the K-Mean model into the 4 clusters, we then generate a new clean
 In the image above, we are showing a 3-D scatter plot that represents the PCA data in clusters. This shows three classes of principal components by the different classes.<br>
 
 ![scatterplot](https://github.com/benlew3/Cryptocurrencies/blob/main/images/hvplot%20scatter.PNG) <br>
-
+In this final image, we are looking at how the 532 tradable coins are clustered and grouped together. We can see that there are 2 significant outliers in class 2. This graph depicts TotalCoinsMined to TotalCoinSupply.
 
 ## Difficulties
+The main difficulty I had encountered while building this analysis was the proper graphs. When rebuilding the graphs, I had to restart the instance in order to recreate the proper data every time. If there were any typos or mishandling of the data, I would need to restart after I had rectified each issue. 
